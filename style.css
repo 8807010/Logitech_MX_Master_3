@@ -157,3 +157,29 @@ body {
     text-align: left;
     width: 222px;
 }
+
+.settings {
+    padding-top: 70px;
+    background: #EDEDED;
+}
+
+.settings__slider {
+    margin: 35px 22px 98px 23px;
+}
+
+.settings__content {
+    background: #C4C4C4;
+    padding: 23px 22px 26px 29px;
+}
+
+.settings__icons {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.text_settings {
+    color: #fff;
+    margin-left: 5px;
+    margin-right: 11px;
+}
